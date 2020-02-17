@@ -1,0 +1,9 @@
+export const SIGNUP = `${process.env.REACT_APP_NODEJS_URL}/users/signup`;
+export const LOGIN = `${process.env.REACT_APP_NODEJS_URL}/users/login`;
+export const GET_USERS = `${process.env.REACT_APP_NODEJS_URL}/users`;
+export const CREATE_PLACE = `${process.env.REACT_APP_NODEJS_URL}/places`;
+export const GET_PLACES = `${process.env.REACT_APP_NODEJS_URL}/places/user`;
+export const GET_PLACE = `${process.env.REACT_APP_NODEJS_URL}/places`;
+export const UPDATE_PLACE = `${process.env.REACT_APP_NODEJS_URL}/places`;
+export const DELETE_PLACE = `${process.env.REACT_APP_NODEJS_URL}/places`;
+export const IMAGE = process.env.REACT_APP_IMAGE_URL;
