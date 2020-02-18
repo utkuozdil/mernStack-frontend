@@ -1,4 +1,4 @@
-# mernStack-rest-frontend
+# mernStack-frontend
 
 The frontend project of Mern Stack. Favourite Places App.
 
